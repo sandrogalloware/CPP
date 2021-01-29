@@ -1,5 +1,5 @@
 /*
-** HelloWorld.cpp
+** HelloWorldRepeat.cpp
 ** Author: Sandro Gallo
 */
 
@@ -8,6 +8,8 @@ using namespace std;
 
 int main()
 {
-  cout <<  "Hello World" << endl;
+  for (int i=0;i<10;i++) {
+      cout <<  i << ") Hello World" << endl;
+  }
   return 0;
 }
