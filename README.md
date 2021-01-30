@@ -1,6 +1,6 @@
 # Tutorial_CPP
 #
-# Una serie di semplici programmi in C++ per introdurre alla programmazione
+# Una serie di programmi di esempio in C++ per introdurre alla programmazione
 #
-# 29 gennaio 2021
+# 30 gennaio 2021
 #
